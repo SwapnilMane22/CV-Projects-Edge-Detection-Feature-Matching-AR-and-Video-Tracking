@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### Running the Projects
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Computer-Vision-Edge-Detection-Feature-Matching-Augmented-Reality-Video-Tracking.git
+   https://github.com/SwapnilMane22/CV-Projects-Edge-Detection-Feature-Matching-AR-and-Video-Tracking.git
    ```
 2. Navigate to the respective project directory.
 3. Run the relevant Python script
